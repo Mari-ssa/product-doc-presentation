@@ -21,9 +21,6 @@ footer {
 }
 </style>
 
-<!-- Custom Theme Definition -->
-<!-- In Marp, you can define CSS in the slide file itself -->
-
 # Product Documentation
 
 Prepared by  
